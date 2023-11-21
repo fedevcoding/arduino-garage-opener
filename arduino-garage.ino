@@ -1,13 +1,9 @@
-// #include <Arduino.h>
 #include <WiFi.h>
-// #include <AsyncTCP.h>
-// #include <ESPAsyncWebServer.h>
 #include "SPIFFS.h"
-// #include <Arduino_JSON.h>
 #include <ESPAsyncWebServer.h>
 
-const char *ssid = "NETWORK_SSID";         // choose your wireless ssid
-const char *password = "NETWORK_PASSWORD"; // put your wireless password here.
+const char *ssid = "NETWORK_SSID";
+const char *password = "NETWORK_PASSWORD";
 #define CLOSED_PIN 34
 #define OPEN_PIN 32
 #define OPEN_MOTOR_PIN 27
