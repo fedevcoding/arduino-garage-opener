@@ -8,6 +8,5 @@
 
 # Demo test video ↓
 
-<video width="100%" height="540" controls>
-  <source src="./test-vid.mp4" type="video/mp4">
-</video>
+https://github.com/fedevcoding/arduino-garage-opener/assets/108336526/24439c18-9f1e-499d-abdb-db4abbb7e844
+
