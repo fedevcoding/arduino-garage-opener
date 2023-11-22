@@ -8,5 +8,6 @@
 
 # Demo test video ↓
 
-https://github.com/fedevcoding/arduino-garage-opener/assets/108336526/24439c18-9f1e-499d-abdb-db4abbb7e844
+
+https://github.com/fedevcoding/arduino-garage-opener/assets/108336526/b177c573-03f6-4368-90d5-18f7c34a3739
 
